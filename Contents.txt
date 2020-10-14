@@ -1,0 +1,116 @@
+
+						Contents
+
+--------------------------------------------------------
+
+
+2	-	Introduction
+
+	2.1		-	Running PHP Scripts in Netbeans
+
+3	-	General Types
+
+	3.3		-	Type - Integer (Demo)
+	3.4		-	Type - Decimal/Floating Point (Demo)
+	3.5		-	Type - Boolean (Demo)
+	3.6		-	Type - Constant (Demo)
+	3.7		-	Determine Variable Types (Demo)
+
+4	-	Functions
+
+	4.3		-	Creating a Function (Demo)
+	4.4		-	Calling a Function (Demo)
+	4.5		-	Passing Parameters (Demo)
+	4.6		-	Default Parameters (Demo)
+	4.7		-	Returning Values (Demo)
+	4.8		-	Variable Functions (Demo)
+	4.9		-	Variable Scope (Demo)
+	4.10	-	Global Variables (Demo)
+
+5	-	Strings
+
+	5.2		-	Single Quoted Strings (Demo)
+	5.3		-	Double Quoted Strings (Demo)
+	5.4		-	Here Document (Demo)
+	5.5		-	print() (Demo)
+	5.6		-	Changing Case (Demo)
+	5.7		-	strlen() (Demo)
+	5.8		-	strpos() (Demo)
+	5.9		-	str_replace() (Demo)
+	5.10	-	substr() (Demo)
+	5.11	-	str_split() (Demo)
+
+6	-	Arrays
+
+	6.3		-	Indexed Arrays (Demo)
+	6.4		-	Associative Arrays (Demo)
+	6.5		-	array_key_exists() (Demo)
+	6.6		-	in_array() (Demo)
+	6.7		-	array_push() (Demo)
+	6.8		-	array_pop() (Demo)
+	6.9		-	unset() (Demo)
+	6.10	-	Sorting Arrays (Demo)
+	6.11	-	count() (Demo)
+	6.12	-	Foreach Loop (Demo)
+	6.13	-	Multi-dimensional Array (Demo)
+
+7	-	Classes & Objects
+
+	7.2		-	Creating a Simple Class (Demo)
+	7.3		-	Creating an Object (Demo)
+	7.4		-	Creating Properties (Demo)
+	7.5		-	Accessing Properties (Demo)
+	7.6		-	Creating Constants (Demo)
+	7.7		-	Accessing Constants (Demo)
+	7.8		-	Creating Methods (Demo)
+	7.9		-	$this (Demo)
+	7.10	-	Accessing Methods (Demo)
+	7.11	-	Constructors (Demo)
+	7.12	-	Initial Parameter Passing (Demo)
+	7.13	-	Inheritance (Demo)
+	7.14	-	Protected Properties (Demo)
+	7.15	-	Private Properties (Demo)
+	7.16	-	Static Properties & Methods (Demo)
+	7.17	-	Scope Resolution Operator :: (Demo)
+	7.18	-	Include File (Demo)
+	7.19	-	Require File (Demo)
+
+8	-	Operators & Control Structures
+
+	8.2		-	Arithmetic Operators (Demo)
+	8.3		-	Incrementing/Decrementing Operators (Demo)
+	8.4		-	Assignment Operators (Demo)
+	8.5		-	String Operator (Demo)
+	8.6		-	Comparison Operators (Demo)
+	8.7		-	Spaceship Operator (Demo)
+	8.8		-	Logical Operators (Demo)
+	8.9		-	If Statement (Demo)
+	8.10	-	Else If (Demo)
+	8.11	-	Switch Statement (Demo)
+	8.12	-	Ternary Operator (Demo)
+	8.13	-	Null Coalesce Operator (Demo)
+	8.14	-	While Loop (Demo)
+	8.15	-	For Loop (Demo)
+	8.16	-	Alternate Syntax for Control Structures (Demo)
+
+9	-	Databases
+
+	9.5		-	Setting up MySQL on Windows (Demo)
+	9.7		-	Connecting to Database (Demo)
+	9.8		-	Close Database Connection (Demo)
+	9.9		-	Executing a Query - Delete, Update, Insert (Demo)
+	9.10	-	Grabbing Inserted Id (Demo)
+	9.11	-	Select Data From Database (Demo)
+	9.12	-	Prepared Statement Example
+	9.13	-	PDO Example
+
+10	-	Web Programming
+
+	10.4	-	Web Site Structure and Layout (Demo)
+	10.5	-	Shorten Syntax with HTML (Demo)
+	10.6	-	$_GET (Demo)
+	10.7	-	$_POST (Demo)
+	10.8	-	Form Validation (Demo)
+	10.9	-	session_start() (Demo)
+	10.10	-	$_SESSION (Demo)
+	10.11	-	session_destroy() (Demo)
